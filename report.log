@@ -3558,3 +3558,437 @@ TypeError: 'tuple' object cannot be interpreted as an integer
 2023-06-08 22:41:00,189 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 98, Current best: 0.0, Global best: 0.0, Runtime: 10.80694 seconds
 2023-06-08 22:41:14,972 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 99, Current best: 0.0, Global best: 0.0, Runtime: 14.78085 seconds
 2023-06-08 22:41:26,750 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 100, Current best: 0.0, Global best: 0.0, Runtime: 11.77763 seconds
+2023-06-26 20:31:15,499 - mealpy.human_based.ICA.OriginalICA - INFO - Solving single objective optimization problem.
+2023-06-26 20:31:20,427 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 1, Current best: 0.3333333134651184, Global best: 0.3333333134651184, Runtime: 2.50134 seconds
+2023-06-26 20:31:22,588 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 2, Current best: 0.30666667222976685, Global best: 0.30666667222976685, Runtime: 2.16073 seconds
+2023-06-26 20:31:24,629 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 3, Current best: 0.2799999713897705, Global best: 0.2799999713897705, Runtime: 2.04024 seconds
+2023-06-26 20:31:27,469 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 4, Current best: 0.24000000953674316, Global best: 0.24000000953674316, Runtime: 2.83774 seconds
+2023-06-26 20:31:30,363 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 5, Current best: 0.22666668891906738, Global best: 0.22666668891906738, Runtime: 2.89296 seconds
+2023-06-26 20:31:34,065 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 6, Current best: 0.19999998807907104, Global best: 0.19999998807907104, Runtime: 3.70126 seconds
+2023-06-26 20:31:37,330 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 7, Current best: 0.18666666746139526, Global best: 0.18666666746139526, Runtime: 3.26394 seconds
+2023-06-26 20:31:40,644 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 8, Current best: 0.1600000262260437, Global best: 0.1600000262260437, Runtime: 3.31301 seconds
+2023-06-26 20:31:43,638 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 9, Current best: 0.1600000262260437, Global best: 0.1600000262260437, Runtime: 2.99360 seconds
+2023-06-26 20:31:46,715 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 10, Current best: 0.1600000262260437, Global best: 0.1600000262260437, Runtime: 3.07604 seconds
+2023-06-26 20:31:50,119 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 11, Current best: 0.1600000262260437, Global best: 0.1600000262260437, Runtime: 3.40277 seconds
+2023-06-26 20:31:52,824 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 12, Current best: 0.1600000262260437, Global best: 0.1600000262260437, Runtime: 2.70488 seconds
+2023-06-26 20:31:55,337 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 13, Current best: 0.1600000262260437, Global best: 0.1600000262260437, Runtime: 2.51185 seconds
+2023-06-26 20:31:58,247 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 14, Current best: 0.1600000262260437, Global best: 0.1600000262260437, Runtime: 2.90933 seconds
+2023-06-26 20:32:01,968 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 15, Current best: 0.1600000262260437, Global best: 0.1600000262260437, Runtime: 3.72058 seconds
+2023-06-26 20:32:05,580 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 16, Current best: 0.1600000262260437, Global best: 0.1600000262260437, Runtime: 3.61021 seconds
+2023-06-26 20:32:08,993 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 17, Current best: 0.1600000262260437, Global best: 0.1600000262260437, Runtime: 3.41303 seconds
+2023-06-26 20:32:13,848 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 18, Current best: 0.1600000262260437, Global best: 0.1600000262260437, Runtime: 4.85321 seconds
+2023-06-26 20:32:19,130 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 19, Current best: 0.1600000262260437, Global best: 0.1600000262260437, Runtime: 5.28149 seconds
+2023-06-26 20:32:22,106 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 20, Current best: 0.13333332538604736, Global best: 0.13333332538604736, Runtime: 2.97496 seconds
+2023-06-26 20:32:28,872 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 21, Current best: 0.1066666841506958, Global best: 0.1066666841506958, Runtime: 6.76533 seconds
+2023-06-26 20:32:33,960 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 22, Current best: 0.1066666841506958, Global best: 0.1066666841506958, Runtime: 5.08673 seconds
+2023-06-26 20:32:37,115 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 23, Current best: 0.1066666841506958, Global best: 0.1066666841506958, Runtime: 3.15468 seconds
+2023-06-26 20:32:41,142 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 24, Current best: 0.1066666841506958, Global best: 0.1066666841506958, Runtime: 4.02626 seconds
+2023-06-26 20:32:45,329 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 25, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 4.18597 seconds
+2023-06-26 20:32:50,351 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 26, Current best: 0.06666666269302368, Global best: 0.06666666269302368, Runtime: 5.02087 seconds
+2023-06-26 20:32:57,368 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 27, Current best: 0.06666666269302368, Global best: 0.06666666269302368, Runtime: 7.01497 seconds
+2023-06-26 20:33:02,431 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 28, Current best: 0.06666666269302368, Global best: 0.06666666269302368, Runtime: 5.06266 seconds
+2023-06-26 20:33:07,060 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 29, Current best: 0.0533333420753479, Global best: 0.0533333420753479, Runtime: 4.62772 seconds
+2023-06-26 20:33:12,592 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 30, Current best: 0.0533333420753479, Global best: 0.0533333420753479, Runtime: 5.53092 seconds
+2023-06-26 20:33:20,376 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 31, Current best: 0.0533333420753479, Global best: 0.0533333420753479, Runtime: 7.78322 seconds
+2023-06-26 20:33:25,836 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 32, Current best: 0.0533333420753479, Global best: 0.0533333420753479, Runtime: 5.45823 seconds
+2023-06-26 20:33:30,157 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 33, Current best: 0.0533333420753479, Global best: 0.0533333420753479, Runtime: 4.32051 seconds
+2023-06-26 20:33:34,279 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 34, Current best: 0.0533333420753479, Global best: 0.0533333420753479, Runtime: 4.12137 seconds
+2023-06-26 20:33:37,726 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 35, Current best: 0.0533333420753479, Global best: 0.0533333420753479, Runtime: 3.44646 seconds
+2023-06-26 20:33:42,214 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 36, Current best: 0.04000002145767212, Global best: 0.04000002145767212, Runtime: 4.48742 seconds
+2023-06-26 20:33:48,877 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 37, Current best: 0.04000002145767212, Global best: 0.04000002145767212, Runtime: 6.66177 seconds
+2023-06-26 20:33:54,885 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 38, Current best: 0.04000002145767212, Global best: 0.04000002145767212, Runtime: 6.00633 seconds
+2023-06-26 20:34:01,364 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 39, Current best: 0.04000002145767212, Global best: 0.04000002145767212, Runtime: 6.47755 seconds
+2023-06-26 20:34:06,689 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 40, Current best: 0.04000002145767212, Global best: 0.04000002145767212, Runtime: 5.32496 seconds
+2023-06-26 20:34:12,128 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 41, Current best: 0.04000002145767212, Global best: 0.04000002145767212, Runtime: 5.43760 seconds
+2023-06-26 20:34:16,932 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 42, Current best: 0.04000002145767212, Global best: 0.04000002145767212, Runtime: 4.80362 seconds
+2023-06-26 20:34:21,128 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 43, Current best: 0.04000002145767212, Global best: 0.04000002145767212, Runtime: 4.19464 seconds
+2023-06-26 20:34:29,319 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 44, Current best: 0.04000002145767212, Global best: 0.04000002145767212, Runtime: 8.19079 seconds
+2023-06-26 20:34:39,742 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 45, Current best: 0.04000002145767212, Global best: 0.04000002145767212, Runtime: 10.42126 seconds
+2023-06-26 20:34:48,044 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 46, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 8.30043 seconds
+2023-06-26 20:34:54,435 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 47, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 6.39057 seconds
+2023-06-26 20:35:02,379 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 48, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 7.94302 seconds
+2023-06-26 20:35:10,502 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 49, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 8.12170 seconds
+2023-06-26 20:35:16,591 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 50, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 6.08794 seconds
+2023-06-26 20:35:24,889 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 51, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 8.29706 seconds
+2023-06-26 20:35:34,424 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 52, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 9.53366 seconds
+2023-06-26 20:35:43,807 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 53, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 9.38109 seconds
+2023-06-26 20:35:52,824 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 54, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 9.01693 seconds
+2023-06-26 20:35:58,282 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 55, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 5.45551 seconds
+2023-06-26 20:36:07,223 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 56, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 8.94055 seconds
+2023-06-26 20:36:16,324 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 57, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 9.09880 seconds
+2023-06-26 20:36:22,904 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 58, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 6.57938 seconds
+2023-06-26 20:36:32,999 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 59, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 10.09310 seconds
+2023-06-26 20:36:42,200 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 60, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 9.20044 seconds
+2023-06-26 20:36:50,205 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 61, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 8.00308 seconds
+2023-06-26 20:36:56,846 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 62, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 6.64091 seconds
+2023-06-26 20:37:04,003 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 63, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 7.15534 seconds
+2023-06-26 20:37:08,997 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 64, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 4.99362 seconds
+2023-06-26 20:37:14,783 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 65, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 5.78523 seconds
+2023-06-26 20:37:20,412 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 66, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 5.62768 seconds
+2023-06-26 20:37:26,147 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 67, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 5.73378 seconds
+2023-06-26 20:37:32,803 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 68, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 6.65548 seconds
+2023-06-26 20:37:38,179 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 69, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 5.37466 seconds
+2023-06-26 20:37:44,155 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 70, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 5.97509 seconds
+2023-06-26 20:37:50,506 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 71, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 6.34956 seconds
+2023-06-26 20:37:56,242 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 72, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 5.73567 seconds
+2023-06-26 20:38:03,749 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 73, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 7.50633 seconds
+2023-06-26 20:38:09,089 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 74, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 5.33921 seconds
+2023-06-26 20:38:15,550 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 75, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 6.45954 seconds
+2023-06-26 20:38:21,566 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 76, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 6.01551 seconds
+2023-06-26 20:38:27,696 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 77, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 6.12879 seconds
+2023-06-26 20:38:35,188 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 78, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 7.49128 seconds
+2023-06-26 20:38:42,761 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 79, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 7.57203 seconds
+2023-06-26 20:38:50,210 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 80, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 7.44800 seconds
+2023-06-26 20:38:56,817 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 81, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 6.60555 seconds
+2023-06-26 20:39:04,414 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 82, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 7.59614 seconds
+2023-06-26 20:39:10,930 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 83, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 6.51445 seconds
+2023-06-26 20:39:19,063 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 84, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 8.13267 seconds
+2023-06-26 20:39:30,505 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 85, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 11.44042 seconds
+2023-06-26 20:39:41,311 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 86, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 10.80388 seconds
+2023-06-26 20:39:55,184 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 87, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 13.87110 seconds
+2023-06-26 20:40:04,448 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 88, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 9.26261 seconds
+2023-06-26 20:40:19,732 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 89, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 15.28404 seconds
+2023-06-26 20:40:33,735 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 90, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 13.99661 seconds
+2023-06-26 20:40:45,979 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 91, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 12.24294 seconds
+2023-06-26 20:40:59,349 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 92, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 13.36583 seconds
+2023-06-26 20:41:12,545 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 93, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 13.19452 seconds
+2023-06-26 20:41:25,031 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 94, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 12.48404 seconds
+2023-06-26 20:41:37,961 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 95, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 12.92868 seconds
+2023-06-26 20:41:48,441 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 96, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 10.47886 seconds
+2023-06-26 20:41:59,523 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 97, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 11.08115 seconds
+2023-06-26 20:42:10,859 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 98, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 11.33506 seconds
+2023-06-26 20:42:21,732 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 99, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 10.87097 seconds
+2023-06-26 20:42:33,766 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 100, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 12.03220 seconds
+2023-06-26 20:44:27,789 - mealpy.human_based.ICA.OriginalICA - INFO - Solving single objective optimization problem.
+2023-06-26 20:44:32,477 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 1, Current best: 0.19999998807907104, Global best: 0.19999998807907104, Runtime: 2.23348 seconds
+2023-06-26 20:44:34,546 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 2, Current best: 0.14666664600372314, Global best: 0.14666664600372314, Runtime: 2.06804 seconds
+2023-06-26 20:44:38,087 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 3, Current best: 0.14666664600372314, Global best: 0.14666664600372314, Runtime: 3.53962 seconds
+2023-06-26 20:44:41,749 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 4, Current best: 0.1066666841506958, Global best: 0.1066666841506958, Runtime: 3.66135 seconds
+2023-06-26 20:44:44,385 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 5, Current best: 0.1066666841506958, Global best: 0.1066666841506958, Runtime: 2.63536 seconds
+2023-06-26 20:44:47,024 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 6, Current best: 0.09333330392837524, Global best: 0.09333330392837524, Runtime: 2.63747 seconds
+2023-06-26 20:44:49,235 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 7, Current best: 0.09333330392837524, Global best: 0.09333330392837524, Runtime: 2.21080 seconds
+2023-06-26 20:44:52,668 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 8, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 3.43181 seconds
+2023-06-26 20:44:56,291 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 9, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 3.62236 seconds
+2023-06-26 20:45:00,322 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 10, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 4.02893 seconds
+2023-06-26 22:14:35,165 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.3, 'c2': 0.8, 'w': 0.4}
+2023-06-26 22:15:01,433 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.07999998331069946, best pos: [ 0.6827436  -0.42160247  0.74270626 -0.38713899 -0.61114618  0.16251169
+ -0.08363518 -0.46482415 -0.03892636  0.77272381 -0.73888884  0.22283212
+ -0.04113081 -0.56877429  0.7929964  -0.10815292  0.40940268 -0.42460605
+ -0.33013912 -0.76074791 -0.35145355  0.22976661  0.00580206  0.28251942
+ -0.36825434 -0.71930584 -0.06038085  0.20388468 -0.65363095  0.79628733
+ -0.533081    0.70535189 -0.32859939 -0.42690391 -0.86780099  0.21774076
+  0.29450361  0.21382706  0.02458292  0.81106704  0.55074248 -0.79999757
+ -0.93524185 -0.05833613  0.0239518   0.24931094 -0.2373329  -0.58289583
+  0.8030937   0.03118857 -0.72460589  0.44737607 -0.43373245 -0.45588206
+  0.64046572 -0.35512117 -0.38817789 -0.4426702  -0.04110232 -0.46496529
+ -0.67102846  0.38275581  0.83276244 -0.09943549  0.63851049 -0.00853654
+ -0.19906785 -0.35658216 -0.0336852   0.06097955 -0.52600238  0.47266951
+ -0.69756665  0.70719608  0.45324485  0.27793235 -0.62394715 -0.20413659
+  0.11984208  0.38221122 -0.76682758 -0.85748163 -0.56835177]
+2023-06-26 22:16:21,537 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.3, 'c2': 0.8, 'w': 0.4}
+2023-06-26 22:26:05,640 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.3, 'c2': 0.8, 'w': 0.4}
+2023-06-26 22:26:18,822 - mealpy.human_based.ICA.OriginalICA - INFO - Solving single objective optimization problem.
+2023-06-26 22:26:27,808 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 1, Current best: 0.24000000953674316, Global best: 0.24000000953674316, Runtime: 4.53080 seconds
+2023-06-26 22:26:31,932 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 2, Current best: 0.14666664600372314, Global best: 0.14666664600372314, Runtime: 4.12250 seconds
+2023-06-26 22:26:37,414 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 3, Current best: 0.12000000476837158, Global best: 0.12000000476837158, Runtime: 5.47976 seconds
+2023-06-26 22:26:44,477 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 4, Current best: 0.12000000476837158, Global best: 0.12000000476837158, Runtime: 7.06129 seconds
+2023-06-26 22:26:48,457 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.13333332538604736, best pos: [-0.26253903  0.37224553  0.56503658 -0.00685306 -0.34781635 -0.29843313
+ -0.95310581  0.63457888 -0.44336714 -0.12664712 -0.54732461 -0.04384676
+  0.70227108  0.58265213 -0.94817618  0.48353466 -0.84783724  0.01484265
+ -0.64139109  0.60173037 -0.3657407   0.21294983 -0.78026585 -0.43464242
+  0.04353631 -0.39240505  0.58496502  0.78069351 -0.39736086 -0.69952654
+ -0.0355794   0.07252436 -0.68816159 -0.38420871  0.40817387  0.21442718
+  0.32157748 -0.15124665  0.55830705 -0.47760403 -0.56862215  0.09200517
+  0.02194529  0.67803416 -0.47130627 -0.78042484  0.13784235  0.72746269
+ -0.13717859 -0.26795094  0.28227187 -0.89781614  0.33168742 -0.73537368
+ -0.91482732 -0.94268158 -0.23432637 -0.62192501 -0.40945175  0.28045217
+  0.84650164 -0.72116147 -0.33716291  0.02452106 -0.60769476  0.27218511
+  0.49837685 -0.68880374 -0.1031923   0.42441575 -0.21836701 -0.4859254
+  0.08254915  0.33586135 -0.71957211 -0.44593167  0.09231355  0.91314043
+ -0.55235321  0.20568125 -0.5270064   0.70477431  0.66026783]
+2023-06-26 22:26:50,975 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 5, Current best: 0.12000000476837158, Global best: 0.12000000476837158, Runtime: 6.49731 seconds
+2023-06-26 22:26:55,820 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.3, 'c2': 0.8, 'w': 0.4}
+2023-06-26 22:26:58,082 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 6, Current best: 0.12000000476837158, Global best: 0.12000000476837158, Runtime: 7.09670 seconds
+2023-06-26 22:27:03,819 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 7, Current best: 0.12000000476837158, Global best: 0.12000000476837158, Runtime: 5.73530 seconds
+2023-06-26 22:27:08,918 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 8, Current best: 0.12000000476837158, Global best: 0.12000000476837158, Runtime: 5.09835 seconds
+2023-06-26 22:27:14,739 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 9, Current best: 0.12000000476837158, Global best: 0.12000000476837158, Runtime: 5.81758 seconds
+2023-06-26 22:27:20,631 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 10, Current best: 0.12000000476837158, Global best: 0.12000000476837158, Runtime: 5.89090 seconds
+2023-06-26 22:27:28,181 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 11, Current best: 0.12000000476837158, Global best: 0.12000000476837158, Runtime: 7.54882 seconds
+2023-06-26 22:27:34,936 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 12, Current best: 0.12000000476837158, Global best: 0.12000000476837158, Runtime: 6.75302 seconds
+2023-06-26 22:27:41,066 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 13, Current best: 0.1066666841506958, Global best: 0.1066666841506958, Runtime: 6.12872 seconds
+2023-06-26 22:27:45,390 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.3333333134651184, best pos: [ 0.6416738   0.26382616  0.05694963  0.24646125 -0.07036767  0.32618276
+  0.12977406  0.46751199 -0.09310861  0.08244124  0.63854047  0.47941675
+ -0.6489354   0.08906655  0.50460911 -0.62323321  0.76697532  0.15126785
+  0.4526221   0.13297106 -0.88262746 -0.28119421  0.61685962  0.62938823
+  0.00422165 -0.24196922  0.26573208  0.17716082  0.37975579  0.64538757
+ -0.27055859  0.82414966  0.41089792  0.6603932  -0.0258652  -0.73426226
+  0.56854385  0.65212127  0.44013244  0.3996541   0.86469782 -0.93053566
+  0.00562244  0.84860847  0.6632588   0.1973699   0.83900836 -0.0809937
+  0.6076663   0.00498395  0.35314349  0.00208652  0.19278738 -0.61244899
+  0.26082669  0.53159619 -0.13227669  0.6202025   0.11408318 -0.06997451
+  0.65650493  0.25122326  0.68868757 -0.64981534 -0.63433652  0.36655946
+ -0.44132155  0.52194796  0.65865047  0.31308829 -0.47356473 -0.04693479
+ -0.08889643  0.44270562  0.06047836  0.88069765  0.23209337  0.14197737
+  0.91137398 -0.07432792  0.04482599  0.62226274 -0.65834735]
+2023-06-26 22:27:47,311 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 14, Current best: 0.1066666841506958, Global best: 0.1066666841506958, Runtime: 6.24287 seconds
+2023-06-26 22:27:51,804 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.3, 'c2': 0.8, 'w': 0.4}
+2023-06-26 22:27:53,478 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 15, Current best: 0.1066666841506958, Global best: 0.1066666841506958, Runtime: 6.16541 seconds
+2023-06-26 22:28:00,942 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 16, Current best: 0.1066666841506958, Global best: 0.1066666841506958, Runtime: 7.46301 seconds
+2023-06-26 22:28:08,551 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 17, Current best: 0.09333330392837524, Global best: 0.09333330392837524, Runtime: 7.60671 seconds
+2023-06-26 22:28:16,218 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 18, Current best: 0.09333330392837524, Global best: 0.09333330392837524, Runtime: 7.66538 seconds
+2023-06-26 22:28:24,059 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 19, Current best: 0.09333330392837524, Global best: 0.09333330392837524, Runtime: 7.83840 seconds
+2023-06-26 22:28:31,488 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 20, Current best: 0.09333330392837524, Global best: 0.09333330392837524, Runtime: 7.42800 seconds
+2023-06-26 22:28:43,969 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 21, Current best: 0.09333330392837524, Global best: 0.09333330392837524, Runtime: 12.47833 seconds
+2023-06-26 22:28:48,761 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.04000002145767212, best pos: [-8.40917244e-03  8.75289772e-01 -3.32392184e-01 -1.86510887e-01
+  5.68763811e-01 -4.06015936e-01  6.71371081e-01  9.42581951e-02
+  4.05509491e-01  1.24705888e-01  5.32506386e-01  2.57445837e-01
+  5.87901939e-01  7.03250542e-02 -1.55229027e-01  3.26830878e-01
+ -1.92030896e-01 -2.06091340e-01  2.66305424e-01  4.55734167e-01
+  5.50377405e-01  2.38169690e-01 -5.97992176e-01 -3.26489033e-02
+ -4.70902262e-01 -2.88864719e-01  3.46996713e-01  7.52844919e-02
+  5.08100525e-02 -1.91079492e-01 -3.54662300e-01  2.70427923e-01
+ -9.70065558e-02  1.00857866e-01  8.29302861e-01  1.61611244e-02
+  7.12253387e-01  4.22509819e-01  7.02122647e-01  2.25187288e-01
+ -4.99803619e-02 -1.70069813e-01  5.19991756e-01  8.97940961e-02
+  6.03512623e-01  5.40842059e-01  5.72524181e-01  2.62822468e-01
+  2.81528876e-01 -1.62684609e-01 -7.49949268e-01 -7.34112363e-04
+  4.41309020e-01  2.19881351e-01  4.08380432e-01  3.95052489e-01
+  6.93546089e-01  6.76579931e-01  1.65082951e-01  3.52764163e-01
+  9.84507922e-02  2.17841754e-01  1.46508755e-01  4.11792134e-01
+  8.06435387e-03  7.32267440e-02 -3.44890876e-01  6.06072435e-01
+  3.75006247e-01  2.67037263e-01  7.06817578e-01 -6.00625284e-01
+ -3.93001614e-01  5.21129808e-01 -8.47662299e-01 -2.08822000e-01
+  1.90140360e-02  1.54383673e-01 -1.92399477e-01  4.23875649e-02
+  4.48809120e-01  7.18335664e-01 -5.06469293e-01]
+2023-06-26 22:28:54,042 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 22, Current best: 0.09333330392837524, Global best: 0.09333330392837524, Runtime: 10.07117 seconds
+2023-06-26 22:28:55,460 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.3, 'c2': 0.8, 'w': 0.4}
+2023-06-26 22:29:01,473 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 23, Current best: 0.09333330392837524, Global best: 0.09333330392837524, Runtime: 7.42915 seconds
+2023-06-26 22:29:09,025 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 24, Current best: 0.09333330392837524, Global best: 0.09333330392837524, Runtime: 7.54960 seconds
+2023-06-26 22:29:16,055 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 25, Current best: 0.09333330392837524, Global best: 0.09333330392837524, Runtime: 7.02889 seconds
+2023-06-26 22:29:24,866 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 26, Current best: 0.09333330392837524, Global best: 0.09333330392837524, Runtime: 8.80972 seconds
+2023-06-26 22:29:31,141 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 27, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 6.27365 seconds
+2023-06-26 22:29:38,300 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 28, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 7.15682 seconds
+2023-06-26 22:29:41,213 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.026666641235351562, best pos: [-0.74604181 -0.4732821   0.11319144 -0.69733784  0.88683078  0.14032833
+ -0.83436428 -0.06484075  0.04794488  0.23179681 -0.66134939  0.03060306
+  0.728219   -0.38120695 -0.17226381  0.7738203  -0.90719107 -0.45943935
+ -0.45687603 -0.73875773  0.32847609 -0.57988609 -0.89632333  0.62573409
+  0.91734545  0.25708931 -0.57459479  0.19885085  0.87972778  0.3177842
+ -0.95631547  0.10795646 -0.04185063  0.0527558  -0.23506711  0.44329014
+  0.91229574 -0.47236547  0.41873374 -0.19002808 -0.0535571  -0.66592361
+  0.84700177 -0.07804293 -0.27095096 -0.56148065 -0.17447291 -0.44089709
+ -0.18833899 -0.12656459  0.73144333  0.61552673 -0.07681639  0.53001541
+ -0.50084714  0.42914741 -0.01642022 -0.5551288   0.04143177  0.14941912
+ -0.82192395 -0.72352976 -0.09181777  0.13775631  0.18829691  0.48319007
+ -0.12559211  0.06700357 -0.25303656 -0.3859241  -0.41337711 -0.47081239
+ -0.4497923   0.41099434 -0.48760753 -0.82302003  0.65423669 -0.10394876
+  0.91213774  0.11080998 -0.52011567  0.33171695 -0.84553829]
+2023-06-26 22:29:46,072 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.3, 'c2': 0.8, 'w': 0.4}
+2023-06-26 22:29:46,888 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 29, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 8.58697 seconds
+2023-06-26 22:29:53,928 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 30, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 7.03821 seconds
+2023-06-26 22:30:01,843 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 31, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 7.91367 seconds
+2023-06-26 22:30:10,182 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 32, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 8.32957 seconds
+2023-06-26 22:30:18,971 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 33, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 8.78765 seconds
+2023-06-26 22:30:27,619 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 34, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 8.64673 seconds
+2023-06-26 22:30:29,988 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.013333320617675781, best pos: [-0.24521591 -0.00111278 -0.97844729 -0.19474389 -0.12357598  0.59134744
+ -0.11890876 -0.13197481  0.39766292 -0.02342669 -0.60850749 -0.28601238
+  0.90665154 -0.31037676  0.01610001  0.51490449  0.5739658  -0.67956712
+ -0.04792238 -0.40454118  0.58706933  0.64073348 -0.55190886  0.40590061
+ -0.12429695 -0.03716536  0.29409128  0.49223047  0.58528436  0.71963364
+ -0.1398922   0.46006873 -0.14200391  0.23366543  0.46060424  0.43449614
+ -0.28421629  0.65657239 -0.36545542 -0.56225046 -0.47413055  0.61810438
+ -0.37386211  0.60087229 -0.2884291   0.5135949   0.62551426 -0.48638089
+  0.17913356 -0.18280617 -0.46750229  0.91023712 -0.3344702  -0.70713629
+ -0.02869019  0.88461695  0.50124402  0.32217323 -0.41832806 -0.48795187
+  0.96009527  0.08258953 -0.87851431  0.07993568 -0.21017214  0.77117197
+  0.04371884  0.08915406  0.77828614  0.08139778  0.40741775  0.46878621
+ -0.14559644  0.68211628 -0.55838105  0.56337121  0.28041698  0.52709573
+ -0.27926108  0.24888892  0.45421356  0.28981123 -0.45269396]
+2023-06-26 22:30:36,900 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 35, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 9.27965 seconds
+2023-06-26 22:30:37,739 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.3, 'c2': 0.8, 'w': 0.4}
+2023-06-26 22:30:47,447 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 36, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 10.54597 seconds
+2023-06-26 22:30:57,454 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 37, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 10.00514 seconds
+2023-06-26 22:31:06,299 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 38, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 8.84281 seconds
+2023-06-26 22:31:16,740 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 39, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 10.43892 seconds
+2023-06-26 22:31:24,706 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.026666641235351562, best pos: [ 0.17166093  0.22054221  0.78828639  0.04960788 -0.35205668  0.31793988
+  0.10430175  0.18130381 -0.55973012  0.30778118  0.30096181  0.63146177
+ -0.06032325  0.54208172 -0.26275153 -0.11326854  0.53712293  0.38317888
+  0.48512605  0.2321711  -0.6395775  -0.5625187  -0.03373668  0.59033807
+  0.46353189  0.35644531 -0.02781439  0.92126988 -0.14692599 -0.34583259
+  0.08420532 -0.39406    -0.13065712  0.60454382  0.23115674  0.49151917
+ -0.68187404  0.31919083 -0.22362372  0.78053002  0.4008847   0.29749241
+  0.304666    0.53237039  0.30254263  0.15916063  0.9081981  -0.10952096
+  0.81765988  0.1806224  -0.25205627  0.85842383 -0.04540874  0.29972881
+ -0.76435363  0.10052754 -0.14900527  0.57215456 -0.20542972 -0.46415191
+  0.69390691  0.44704931 -0.18235283  0.71285181 -0.10350324  0.42886382
+ -0.22427042  0.7066136   0.50986441  0.17487161 -0.16593473  0.20306362
+  0.5503925   0.46019926  0.52364972  0.20051176 -0.15118093  0.05565976
+ -0.09518162  0.838589   -0.25323961 -0.14300219  0.22678326]
+2023-06-26 22:31:24,745 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 40, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 8.00331 seconds
+2023-06-26 22:31:29,658 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.3, 'c2': 0.8, 'w': 0.4}
+2023-06-26 22:31:33,376 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 41, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 8.62881 seconds
+2023-06-26 22:31:42,203 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 42, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 8.82509 seconds
+2023-06-26 22:31:51,003 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 43, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 8.79931 seconds
+2023-06-26 22:32:00,740 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 44, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 9.73573 seconds
+2023-06-26 22:32:12,745 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 45, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 12.00334 seconds
+2023-06-26 22:32:15,963 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.04000002145767212, best pos: [-0.59420448  0.1619531   0.61590028 -0.19326763 -0.85902691  0.21283588
+  0.21386013 -0.18702211  0.13258742  0.19955011 -0.78146776  0.68662352
+ -0.43956222 -0.14447636  0.50752426  0.21526208  0.58052586 -0.70612877
+  0.51418701  0.57320626  0.05261204  0.10634552  0.71215504 -0.51211566
+ -0.7519597  -0.16508608  0.88146843 -0.17464957 -0.52355762  0.47593068
+  0.42643085 -0.33085263  0.48587063  0.821478    0.32892086 -0.21927876
+ -0.29284477 -0.75930823  0.40437119  0.2386386  -0.37998404  0.33827877
+  0.10959224  0.41687897 -0.51719824 -0.22097681 -0.46634485 -0.00291525
+  0.84772822  0.01699825 -0.31975056  0.63390838  0.1382702   0.69657833
+ -0.68051563 -0.72826235 -0.7328994  -0.53997624  0.02045118  0.53209258
+  0.05315077  0.95663343  0.91350786 -0.93425805  0.11581017 -0.48329199
+  0.69579339 -0.38518141  0.05525877 -0.19996732  0.05154234  0.79064703
+  0.54734823  0.70824771  0.15752206  0.67581704  0.32631265 -0.83852916
+ -0.54258065  0.27019216 -0.38270085  0.74734362 -0.59008411]
+2023-06-26 22:32:20,620 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.3, 'c2': 0.8, 'w': 0.4}
+2023-06-26 22:32:21,750 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 46, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 9.00400 seconds
+2023-06-26 22:32:31,959 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 47, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 10.20747 seconds
+2023-06-26 22:32:40,430 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 48, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 8.46978 seconds
+2023-06-26 22:32:52,396 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 49, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 11.96332 seconds
+2023-06-26 22:33:10,207 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 50, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 17.80765 seconds
+2023-06-26 22:33:13,671 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.14666664600372314, best pos: [ 3.29261672e-01  4.08101941e-01 -6.62979180e-01  2.34048633e-01
+ -2.71971270e-01  4.56209102e-01 -8.27617677e-01  7.29474772e-01
+ -6.62015527e-01  3.45547763e-01  1.67983771e-01  2.09454523e-01
+ -6.54027289e-01  1.16897083e-01  5.56116596e-01  8.51169794e-01
+ -2.36760287e-01  8.17087761e-02 -2.62279008e-02  3.65810828e-01
+  1.84009050e-01  7.80968999e-01  5.11919888e-01  7.48593329e-01
+ -5.52509191e-01  6.01551949e-01  2.70183767e-01 -1.77403502e-01
+ -3.88149311e-01  3.34858383e-01  4.03005147e-02 -2.03754769e-01
+  1.75153741e-01 -2.71061666e-01 -6.27632910e-01 -1.39134424e-01
+ -6.54898031e-02  5.87515887e-01  6.49362121e-01 -6.41960515e-01
+  2.58223621e-01 -1.88897773e-04 -3.75649723e-01 -1.95274999e-01
+  5.03468452e-02  4.28267524e-01  4.41393168e-01 -3.39107691e-01
+ -1.62385417e-01  1.96723315e-02 -4.87132855e-01  1.68422739e-01
+  7.59607001e-01 -2.06505129e-01 -2.14329697e-01  8.46129720e-01
+  1.90157174e-01  8.14609798e-01  3.30927442e-01  4.74233713e-01
+  9.57030800e-01  6.38309267e-01  6.01999919e-01  3.61055421e-01
+  1.40249453e-02  3.07147699e-01  5.09552989e-01 -3.34053944e-01
+  7.87938240e-02  2.15786621e-01 -4.92017251e-01  2.03822991e-01
+ -8.16557944e-01 -2.27391216e-01  4.66912660e-01  1.57115541e-01
+ -6.98369612e-02  2.86018539e-01 -2.55350430e-01 -4.86360809e-02
+  8.66082992e-02  3.79005569e-01  2.50029315e-01]
+2023-06-26 22:33:22,067 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.3, 'c2': 0.8, 'w': 0.4}
+2023-06-26 22:33:27,254 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 51, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 17.04469 seconds
+2023-06-26 22:33:41,993 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 52, Current best: 0.07999998331069946, Global best: 0.07999998331069946, Runtime: 14.73740 seconds
+2023-06-26 22:33:54,852 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 53, Current best: 0.06666666269302368, Global best: 0.06666666269302368, Runtime: 12.85353 seconds
+2023-06-26 22:34:06,723 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 54, Current best: 0.06666666269302368, Global best: 0.06666666269302368, Runtime: 11.87005 seconds
+2023-06-26 22:34:20,633 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 55, Current best: 0.06666666269302368, Global best: 0.06666666269302368, Runtime: 13.90876 seconds
+2023-06-26 22:34:22,263 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.09333330392837524, best pos: [-0.94229723 -0.60970138 -0.20485649  0.19253775 -0.40491802  0.77361802
+  0.62289506  0.33524399 -0.16290773 -0.43003872 -0.00461476 -0.37138341
+ -0.75026006 -0.8036797   0.55774469 -0.81451452 -0.87082233 -0.00974639
+  0.03357542  0.00378291  0.07586926  0.27040487 -0.70766162 -0.22686325
+ -0.59224775 -0.99309415 -0.80652056 -0.91206769  0.72264657 -0.93300176
+ -0.91495334  0.4062206   0.39267848  0.49546343  0.01942673 -0.67768004
+ -0.39537257  0.02104057  0.78627485 -0.49041253  0.10167172 -0.21742784
+  0.837279   -0.30898144  0.33746923 -0.58788839 -0.43714458 -0.10110378
+  0.20949358  0.68371616  0.02119805 -0.0989848  -0.79796445  0.12729154
+ -0.25806841  0.5089943  -0.71792232  0.94705569 -0.18594002 -0.43585264
+ -0.75451976 -0.4643863   0.57433853 -0.17787311 -0.0981711   0.44937763
+ -0.33686918  0.56411906 -0.5045772   0.68945131  0.78630482 -0.20041262
+ -0.23279093  0.26786192  0.83629109 -0.13616658  0.72133731  0.87727337
+ -0.38713245 -0.58415655 -0.5683611   0.19158694  0.25098645]
+2023-06-26 22:34:28,235 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.3, 'c2': 0.8, 'w': 0.4}
+2023-06-26 22:34:35,437 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 56, Current best: 0.06666666269302368, Global best: 0.06666666269302368, Runtime: 14.80244 seconds
+2023-06-26 22:34:51,437 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 57, Current best: 0.06666666269302368, Global best: 0.06666666269302368, Runtime: 15.99812 seconds
+2023-06-26 22:35:06,438 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 58, Current best: 0.06666666269302368, Global best: 0.06666666269302368, Runtime: 14.99878 seconds
+2023-06-26 22:35:25,364 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 59, Current best: 0.06666666269302368, Global best: 0.06666666269302368, Runtime: 18.92518 seconds
+2023-06-26 22:35:38,750 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.21333330869674683, best pos: [-3.18356703e-01  5.86051528e-02 -6.16928906e-02  7.62042034e-01
+ -5.98532800e-02  5.37577677e-01 -3.03987523e-01  6.86357784e-01
+  5.33033771e-01  1.98344462e-01 -3.71039100e-01 -4.63345343e-01
+  3.74774578e-01 -2.57080631e-01 -1.63239688e-01 -4.01921470e-01
+  4.29232699e-01  4.29099924e-01 -4.87888760e-01  6.32975289e-01
+  9.09714474e-01 -7.03800959e-01 -8.29411096e-03 -1.34104322e-01
+  6.12803185e-01  9.92101127e-01  1.41278082e-01  3.48331500e-01
+  4.52811635e-01  8.98272330e-04  4.18015540e-01 -7.90537910e-02
+  7.12125465e-01  3.05047460e-01 -5.55881422e-01  1.57381291e-02
+ -6.92023338e-01  5.66969755e-01  5.10887955e-02 -1.98319165e-01
+ -4.72574647e-01  3.77169582e-01  1.86183814e-01 -1.37456785e-01
+  2.61350361e-01  1.89308431e-01 -5.26823039e-02  1.21310116e-01
+ -1.84955005e-01  8.39995335e-02 -5.52121400e-01 -3.31590294e-01
+ -2.02586652e-01 -7.08995083e-02 -5.69491787e-01 -4.80425102e-01
+  5.44778329e-01  3.38857965e-01  7.03327715e-01 -1.69659560e-01
+ -1.85864881e-01  5.53958094e-01 -2.71587032e-01  9.36740816e-01
+ -8.52435014e-01 -2.76374500e-01  2.83762835e-01  4.65964429e-01
+  5.77419564e-01  4.30122607e-02 -5.38198356e-01  1.90089082e-01
+  1.35364073e-01  5.28788081e-01  5.19549144e-01 -2.22959320e-01
+  6.55319819e-01  2.60822180e-01  5.02886937e-01  6.97801021e-01
+ -5.21755845e-01  1.50724822e-01  3.34155846e-01]
+2023-06-26 22:35:43,341 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 60, Current best: 0.06666666269302368, Global best: 0.06666666269302368, Runtime: 17.97439 seconds
+2023-06-26 22:35:54,496 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 61, Current best: 0.06666666269302368, Global best: 0.06666666269302368, Runtime: 11.15380 seconds
+2023-06-26 22:36:06,079 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 62, Current best: 0.06666666269302368, Global best: 0.06666666269302368, Runtime: 11.58089 seconds
+2023-06-26 22:36:19,620 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 63, Current best: 0.06666666269302368, Global best: 0.06666666269302368, Runtime: 13.53964 seconds
+2023-06-26 22:36:31,789 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 64, Current best: 0.06666666269302368, Global best: 0.06666666269302368, Runtime: 12.16799 seconds
+2023-06-26 22:36:43,130 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 65, Current best: 0.06666666269302368, Global best: 0.06666666269302368, Runtime: 11.33936 seconds
+2023-06-26 22:36:55,072 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 66, Current best: 0.06666666269302368, Global best: 0.06666666269302368, Runtime: 11.94068 seconds
+2023-06-26 22:37:06,776 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 67, Current best: 0.0533333420753479, Global best: 0.0533333420753479, Runtime: 11.70342 seconds
+2023-06-26 22:37:19,946 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 68, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 13.16860 seconds
+2023-06-26 22:37:33,851 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 69, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 13.90105 seconds
+2023-06-26 22:37:47,582 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 70, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 13.72972 seconds
+2023-06-26 22:37:59,975 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 71, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 12.38873 seconds
+2023-06-26 22:38:13,619 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 72, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 13.64242 seconds
+2023-06-26 22:38:26,263 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 73, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 12.64231 seconds
+2023-06-26 22:38:40,925 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 74, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 14.66082 seconds
+2023-06-26 22:39:00,378 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 75, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 19.45175 seconds
+2023-06-26 22:39:13,489 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 76, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 13.10933 seconds
+2023-06-26 22:39:26,119 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 77, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 12.62921 seconds
+2023-06-26 22:39:40,405 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 78, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 14.28548 seconds
+2023-06-26 22:39:52,159 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 79, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 11.75264 seconds
+2023-06-26 22:40:00,405 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 80, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 8.24461 seconds
+2023-06-26 22:40:11,374 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 81, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 10.96682 seconds
+2023-06-26 22:40:27,215 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 82, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 15.83897 seconds
+2023-06-26 22:40:37,958 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 83, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 10.74115 seconds
+2023-06-26 22:40:48,309 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 84, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 10.35008 seconds
+2023-06-26 22:41:01,564 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 85, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 13.25341 seconds
+2023-06-26 22:41:17,076 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 86, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 15.51037 seconds
+2023-06-26 22:41:28,286 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 87, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 11.20903 seconds
+2023-06-26 22:41:39,197 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 88, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 10.90970 seconds
+2023-06-26 22:41:53,029 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 89, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 13.83136 seconds
+2023-06-26 22:42:31,231 - mealpy.human_based.ICA.OriginalICA - INFO - Solving single objective optimization problem.
+2023-06-26 22:42:38,403 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 1, Current best: 0.24000000953674316, Global best: 0.24000000953674316, Runtime: 3.36166 seconds
+2023-06-26 22:42:41,184 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 2, Current best: 0.22666668891906738, Global best: 0.22666668891906738, Runtime: 2.77965 seconds
+2023-06-26 22:42:45,271 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 3, Current best: 0.21333330869674683, Global best: 0.21333330869674683, Runtime: 4.08553 seconds
+2023-06-26 22:42:50,275 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 4, Current best: 0.19999998807907104, Global best: 0.19999998807907104, Runtime: 5.00337 seconds
+2023-06-26 22:42:55,184 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 5, Current best: 0.17333334684371948, Global best: 0.17333334684371948, Runtime: 4.90786 seconds
+2023-06-26 22:43:00,884 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 6, Current best: 0.17333334684371948, Global best: 0.17333334684371948, Runtime: 5.69797 seconds
+2023-06-26 22:43:08,263 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 7, Current best: 0.17333334684371948, Global best: 0.17333334684371948, Runtime: 7.37759 seconds
+2023-06-26 22:43:12,264 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 8, Current best: 0.1600000262260437, Global best: 0.1600000262260437, Runtime: 3.99956 seconds
+2023-06-26 22:43:18,049 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 9, Current best: 0.1600000262260437, Global best: 0.1600000262260437, Runtime: 5.78306 seconds
+2023-06-26 22:43:24,002 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 10, Current best: 0.1600000262260437, Global best: 0.1600000262260437, Runtime: 5.95184 seconds
+2023-06-26 22:43:27,915 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 11, Current best: 0.1600000262260437, Global best: 0.1600000262260437, Runtime: 3.91234 seconds
+2023-06-26 22:43:33,633 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 12, Current best: 0.1600000262260437, Global best: 0.1600000262260437, Runtime: 5.71543 seconds
+2023-06-26 22:43:38,120 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 13, Current best: 0.17333334684371948, Global best: 0.1600000262260437, Runtime: 4.48630 seconds
+2023-06-26 22:43:40,933 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 14, Current best: 0.14666664600372314, Global best: 0.14666664600372314, Runtime: 2.81133 seconds
+2023-06-26 22:43:44,961 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 15, Current best: 0.13333332538604736, Global best: 0.13333332538604736, Runtime: 4.02790 seconds
+2023-06-26 22:43:51,605 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 16, Current best: 0.026666641235351562, Global best: 0.026666641235351562, Runtime: 6.64256 seconds
+2023-06-26 22:43:56,301 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 17, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 4.69386 seconds
+2023-06-26 22:44:02,384 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 18, Current best: 0.026666641235351562, Global best: 0.013333320617675781, Runtime: 6.08248 seconds
+2023-06-26 22:44:07,793 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 19, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 5.40701 seconds
+2023-06-26 22:44:13,787 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 20, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 5.99240 seconds
+2023-06-26 22:44:23,659 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 21, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 9.87075 seconds
+2023-06-26 22:44:30,072 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 22, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 6.41119 seconds
+2023-06-26 22:44:35,686 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 23, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 5.61306 seconds
+2023-06-26 22:44:42,003 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 24, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 6.31627 seconds
+2023-06-26 22:44:51,087 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 25, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 9.08210 seconds
+2023-06-26 22:44:56,865 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 26, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 5.77704 seconds
+2023-06-26 22:45:03,511 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 27, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 6.64483 seconds
+2023-06-26 22:45:09,278 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 28, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 5.76594 seconds
+2023-06-26 22:45:17,935 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 29, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 8.65602 seconds
+2023-06-26 22:45:26,210 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 30, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 8.27182 seconds
+2023-06-26 22:45:33,874 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 31, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 7.66363 seconds
+2023-06-26 22:45:39,774 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 32, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 5.89871 seconds
+2023-06-26 22:45:46,471 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 33, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 6.69552 seconds
+2023-06-26 22:45:53,023 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 34, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 6.55123 seconds
+2023-06-26 22:46:00,975 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 35, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 7.95037 seconds
+2023-06-26 22:46:08,524 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 36, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 7.54784 seconds
+2023-06-26 22:46:17,292 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 37, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 8.76625 seconds
+2023-06-26 22:46:24,812 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 38, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 7.51918 seconds
+2023-06-26 22:46:31,039 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 39, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 6.22521 seconds
+2023-06-26 22:46:40,154 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 40, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 9.11383 seconds
+2023-06-26 22:46:48,457 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 41, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 8.30244 seconds
+2023-06-26 22:46:58,741 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 42, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 10.28242 seconds
+2023-06-26 22:47:09,256 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 43, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 10.51379 seconds
+2023-06-26 22:47:21,597 - mealpy.human_based.ICA.OriginalICA - INFO - >Problem: ICA, Epoch: 44, Current best: 0.013333320617675781, Global best: 0.013333320617675781, Runtime: 12.33983 seconds
