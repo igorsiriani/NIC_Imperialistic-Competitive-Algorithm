@@ -74,8 +74,13 @@ def main():
         y = enc.fit_transform(y[:, np.newaxis]).toarray()
         scaler = StandardScaler()
         x_scaled = scaler.fit_transform(x)
-        x_train, x_test, y_train, y_test = train_test_split(
-            x_scaled, y, test_size=0.5, random_state=2)
+        
+        # divide 15% para testes
+        x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.15)
+
+	# divide 15% para validação
+        x_train, x_val, y_train, y_val = train_test_split(x_train, y_train, test_size=0.1765)
+	
         n_features = x.shape[1]
         n_classes = y.shape[1]
         """
@@ -108,7 +113,7 @@ def main():
         shape = get_shape(model)
 
         # Criação do modelo genético
-        num_generations = 10000
+        num_generations = 100000
         num_parents_mating = 1000
         keras_ga = kerasga.KerasGA(model=model, num_solutions=num_parents_mating)
         initial_population = keras_ga.population_weights
@@ -126,7 +131,7 @@ def main():
 
         # Avaliação do melhor indivíduo
         model.set_weights(set_shape(best_weights, shape))
-        score = model.evaluate(x_test, y_test)
+        score = model.evaluate(x_val, y_val)
 
         print('Test loss NN:', score_nn[0])
         print('Test accuracy NN:', score_nn[1])

@@ -73,8 +73,13 @@ def main():
         y = enc.fit_transform(y[:, np.newaxis]).toarray()
         scaler = StandardScaler()
         x_scaled = scaler.fit_transform(x)
-        x_train, x_test, y_train, y_test = train_test_split(
-            x_scaled, y, test_size=0.5, random_state=2)
+        
+        # divide 15% para testes
+        x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.15)
+
+	# divide 15% para validação
+        x_train, x_val, y_train, y_val = train_test_split(x_train, y_train, test_size=0.1765)
+
         n_features = x.shape[1]
         n_classes = y.shape[1]
         """
@@ -113,7 +118,7 @@ def main():
         optimizer = GlobalBestPSO(n_particles=40, dimensions=83, options=options, bounds=bounds)
         cost, pos = optimizer.optimize(evaluate_nn, 100, X_test=x_train, Y_test=y_train, shape=shape, model=model)
         model.set_weights(set_shape(pos, shape))
-        score = model.evaluate(x_test, y_test)
+        score = model.evaluate(x_val, y_val)
 
         print('Test loss NN:', score_nn[0])
         print('Test accuracy NN:', score_nn[1])
