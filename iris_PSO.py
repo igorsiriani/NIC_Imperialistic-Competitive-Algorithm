@@ -3,6 +3,7 @@ import time
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.datasets import load_iris
+import keras.backend
 from keras.layers import Dense
 from keras.models import Sequential
 from pyswarms.single.global_best import GlobalBestPSO
@@ -62,6 +63,7 @@ def main():
     nn_list = []
     optimizer_list = []
     for i in range(0, 100):
+        keras.backend.clear_session()
         """
         ==========================================
         """
@@ -77,7 +79,7 @@ def main():
         # divide 15% para testes
         x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.15)
 
-	# divide 15% para validação
+        # divide 15% para validação
         x_train, x_val, y_train, y_val = train_test_split(x_train, y_train, test_size=0.1765)
 
         n_features = x.shape[1]

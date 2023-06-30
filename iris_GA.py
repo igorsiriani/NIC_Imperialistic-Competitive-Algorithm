@@ -2,7 +2,7 @@ import time
 
 import numpy
 import numpy as np
-import tensorflow
+import keras.backend
 from keras.layers import Dense
 from keras.models import Sequential
 import pygad
@@ -63,6 +63,7 @@ def main():
     nn_list = []
     optimizer_list = []
     for i in range(0, 100):
+        keras.backend.clear_session()
         """
         ==========================================
         """
@@ -78,9 +79,9 @@ def main():
         # divide 15% para testes
         x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.15)
 
-	# divide 15% para validação
+        # divide 15% para validação
         x_train, x_val, y_train, y_val = train_test_split(x_train, y_train, test_size=0.1765)
-	
+
         n_features = x.shape[1]
         n_classes = y.shape[1]
         """
